@@ -6,8 +6,8 @@
 - buat variabel H (matriks/array) untuk kernel atau filter
 - buat variabel X (matriks/array) untuk  untuk image input/image original
 - buat variabel Y (matrik/array) untuk image output
-  ```
-  For x=0 to picturel .ScaleWidth-1
+ ```
+For x=0 to picturel .ScaleWidth-1
 For to picturel .ScaleHeight-1
 for kl to nFilterX-1
 for k2=O to nFilterY-1
