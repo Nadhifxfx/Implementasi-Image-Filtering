@@ -9,7 +9,8 @@
 
 # Jawaban
 
-```import numpy as np
+```python
+import numpy as np
 
 # Inisialisasi kernel/filter H (Contoh kernel 3x3 untuk deteksi tepi)
 H = np.array([[1, 1, 1],
