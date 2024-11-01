@@ -1,13 +1,13 @@
-#Implementasi Image FilteringPenugasan
+# Implementasi Image Filter
 
 **Soal :**
 
-1.buat program dari algoritma dibawah ini
-2. buat variabel H (matriks/array) untuk kernel atau filter
-3. buat variabel X (matriks/array) untuk  untuk image input/image original
-4. buat variabel Y (matrik/array) untuk image output
+- buat program dari algoritma dibawah ini
+- buat variabel H (matriks/array) untuk kernel atau filter
+- buat variabel X (matriks/array) untuk  untuk image input/image original
+- buat variabel Y (matrik/array) untuk image output
 
-**Hasil :**
+# Jawaban
 
 ```import numpy as np
 
