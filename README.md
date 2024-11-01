@@ -1,4 +1,7 @@
 # Implementasi Image Filter
+Nama : Nadhif Fathur Rahman
+Kelas : TIF22A
+NIM : 23422027
 
 **Soal :**
 
