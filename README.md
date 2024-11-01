@@ -8,14 +8,15 @@
 - buat variabel Y (matrik/array) untuk image output
  ```
 For x=0 to picturel .ScaleWidth-1
-For to picturel .ScaleHeight-1
-for kl to nFilterX-1
-for k2=O to nFilterY-1
-,k2)*l(x+k1 ,y+k2)
-next k2
-next kl
-next y
-Next x
+ For to picturel .ScaleHeight-1
+  z(x,y)=0
+   for kl=0 to nFilterX-1
+    for k2=O to nFilterY-1
+     z(x,y)=z(x,y)+H(k1,k2)*l(x+k1,y+k2)
+    next k2
+   next kl
+  next y
+ Next x
 ```
 
 # Jawaban
