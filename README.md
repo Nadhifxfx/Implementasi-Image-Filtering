@@ -1,4 +1,4 @@
-# Implementasi Image Filter
+# Konvolusi Algoritma
 Nama : Nadhif Fathur Rahman      
 Kelas : TIF22A      
 NIM : 23422027
